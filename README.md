@@ -32,6 +32,7 @@ git clone https://github.com/Perico6255/Entrada-Salida-Java.git
 ```
 ### 2. Compilación
 ```
+cd Entrada-Salida-Java 
 javac -d bin src/Ordenador.java src/GeneradorAleatorio.java       
 ```
 ### 3. Ejecucion 
