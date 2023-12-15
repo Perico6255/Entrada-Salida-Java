@@ -24,11 +24,11 @@ Desarrollar un programa llamado "Ordenador" que:
 ### 1. Clonar el repositorio
 - ssh
 ```
-git clone 
+git clone git@github.com:Perico6255/Entrada-Salida-Java.git
 ```
 - http
 ```
-git clone 
+git clone https://github.com/Perico6255/Entrada-Salida-Java.git
 ```
 ### 2. Compilación
 ```
